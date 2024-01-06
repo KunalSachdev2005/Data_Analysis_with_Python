@@ -1,4 +1,4 @@
-# Data_Analysis_with_Python
+# Predicting Prices of Houses in King County, USA
 As a data analyst, I collected data of house prices in King County, USA.
 Following data wrangling and EDA, I created a linear regression model with
 parameters like total floors in the house, view to a waterfront, basement
